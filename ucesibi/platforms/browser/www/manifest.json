@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
+  "name": "The Piecharts template",
+  "short_name": "The Piecharts template",
   "version": "fullmaterialtemplate",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "Template containing piecharts from Material Design Dashboard.",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"
